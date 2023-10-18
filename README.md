@@ -32,4 +32,4 @@ generateVideoWithSubtitle("./public/test1.mp4");
 The subtitle is saved to `process.env.SUBTITLE_FOLDER` folder in the source repository.
 The output video with hardcoded subtitle is saved to `process.env.OUTPUT_FOLDER` folder in the source repository.
 
-I wish this would help you. Good luck!!!😊😊😊
+I wish this would help you. Good luck! 😊
